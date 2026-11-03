@@ -1,0 +1,33 @@
+# ============================================
+# .gitignore
+# ============================================
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Node / Hardhat
+node_modules/
+cache/
+artifacts/
+
+# Excel temp
+~$*.xlsx
+
+# Large data files (uncomment if needed)
+# *.csv
+
+# Secrets
+*.key
+*.pem
