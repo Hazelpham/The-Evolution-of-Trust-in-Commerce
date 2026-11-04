@@ -25,7 +25,7 @@
 |:-----:|-------|-------|:------:|
 | [📊 Phase 1](./01-phase-1-olist-web2-analysis/) | **Diagnosing the Pain** — Olist Web2 Analysis | SQL · BigQuery · Excel | 🟢 Active |
 | [🛠️ Phase 2](./02-phase-2-web3-escrow-solution/) | **Engineering the Cure** — Web3 Escrow Solution | Solidity · Python · Hardhat | 🟡 Planned |
-| [📈 Phase 3](./03-phase-3-ethereum-onchain-analytics/) | **Validating the Future** — On-chain Analytics | Dune Analytics · SQL | 🟡 Planned |
+| [📈 Phase 3](./03-phase-3-ethereum-onchain-analysis/) | **Validating the Future** — On-chain Analysis | Dune Analytics · SQL | 🟡 Planned |
 
 ---
 
@@ -75,7 +75,7 @@ The-Evolution-of-Trust-in-Commerce/
 ├── 02-phase-2-web3-escrow-solution/       ← 🛠️ Solidity + Python + Hardhat
 │   └── (smart contracts, simulation scripts, test results)
 │
-├── 03-phase-3-ethereum-onchain-analytics/ ← 📈 Dune Analytics + SQL
+├── 03-phase-3-ethereum-onchain-analysis/  ← 📈 Dune Analytics + SQL
 │   └── (on-chain queries, dashboards, findings)
 │
 └── 04-conclusion/                         ← 🏆 Executive summary & roadmap

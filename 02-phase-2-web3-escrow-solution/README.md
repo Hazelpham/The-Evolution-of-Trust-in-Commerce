@@ -62,4 +62,4 @@ phase-2-web3-escrow-solution/
 
 > *With the escrow solution designed and tested, Phase 3 examines real Ethereum data to validate cost-effectiveness and scalability.*
 
-**[→ Continue to Phase 3: On-chain Analytics](../03-phase-3-ethereum-onchain-analytics/)**
+**[→ Continue to Phase 3: On-chain Analysis](../03-phase-3-ethereum-onchain-analysis/)**
