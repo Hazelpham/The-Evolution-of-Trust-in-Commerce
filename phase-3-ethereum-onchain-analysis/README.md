@@ -2,7 +2,7 @@
 
 ### *Analyzing real Ethereum blockchain data to validate the feasibility of Web3 commerce solutions*
 
-[← Back to Main Project](../README.md) · [← Phase 2: The Solution](../phase-2-web3-solution/)
+[← Back to Main Project](../README.md) · [← Phase 2: The Solution](../phase-2-blockchain-solution/)
 
 ---
 
