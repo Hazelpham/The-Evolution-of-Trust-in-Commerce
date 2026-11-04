@@ -68,9 +68,6 @@ This project begins with a simple but powerful question. Using real transaction 
 evolution-of-trust-in-commerce/
 │
 ├── README.md                              ← You are here
-├── LICENSE
-│
-├── docs/                                  ← Project documentation
 │
 ├── phase-1-olist-web2-analysis/           ← 📊 SQL + Excel + BigQuery
 │   └── (data, sql queries, excel files, findings)
@@ -147,12 +144,6 @@ Data Analyst with a strong foundation in **Advanced Excel** and **SQL**, passion
 > *"I believe the future of commerce lies at the intersection of data transparency and decentralized trust."*
 
 🔗 GitHub: [@Hazelpham](https://github.com/Hazelpham)
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License — see the [LICENSE](./LICENSE) file for details.
 
 ---
 
