@@ -2,7 +2,7 @@
 
 ### *Analyzing real Ethereum blockchain data to validate the feasibility of Web3 commerce solutions*
 
-[← Back to Main Project](../README.md) · [← Phase 2: The Solution](../02-phase-2-web3-escrow-solution/)
+[← Back to Main Project](../README.md) · [← Phase 2: The Solution](../phase-2-web3-solution/)
 
 ---
 
@@ -47,4 +47,4 @@ phase-3-ethereum-onchain-analytics/
 
 > *After completing all three phases, the full story comes together in the Executive Summary.*
 
-**[→ Read the Final Executive Summary](../04-conclusion/)**
+**[→ Read the Final Executive Summary](../conclusion/)**

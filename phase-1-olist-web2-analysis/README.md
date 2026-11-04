@@ -64,4 +64,4 @@ phase-1-olist-web2-analysis/
 
 > *The findings from this analysis reveal a critical trust deficit in centralized e-commerce. Phase 2 proposes a blockchain-based solution to address these systemic failures.*
 
-**[→ Continue to Phase 2: Web3 Escrow Solution](../02-phase-2-web3-escrow-solution/)**
+**[→ Continue to Phase 2: Web3 Solution](../phase-2-web3-solution/)**
