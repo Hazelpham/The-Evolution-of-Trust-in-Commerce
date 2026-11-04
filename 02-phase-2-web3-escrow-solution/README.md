@@ -2,7 +2,7 @@
 
 ### *A blockchain-based escrow system that automatically refunds customers when deliveries fail*
 
-[← Back to Main Project](../README.md) · [← Phase 1: The Problem](../phase-1-olist-web2-analysis/)
+[← Back to Main Project](../README.md) · [← Phase 1: The Problem](../01-phase-1-olist-web2-analysis/)
 
 ---
 
@@ -62,4 +62,4 @@ phase-2-web3-escrow-solution/
 
 > *With the escrow solution designed and tested, Phase 3 examines real Ethereum data to validate cost-effectiveness and scalability.*
 
-**[→ Continue to Phase 3: On-chain Analytics](../phase-3-ethereum-onchain-analytics/)**
+**[→ Continue to Phase 3: On-chain Analytics](../03-phase-3-ethereum-onchain-analytics/)**

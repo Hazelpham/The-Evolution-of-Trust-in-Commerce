@@ -23,9 +23,9 @@
 
 | Phase | Title | Tools | Status |
 |:-----:|-------|-------|:------:|
-| [📊 Phase 1](./phase-1-olist-web2-analysis/) | **Diagnosing the Pain** — Olist Web2 Analysis | SQL · BigQuery · Excel | 🟢 Active |
-| [🛠️ Phase 2](./phase-2-web3-escrow-solution/) | **Engineering the Cure** — Web3 Escrow Solution | Solidity · Python · Hardhat | 🟡 Planned |
-| [📈 Phase 3](./phase-3-ethereum-onchain-analytics/) | **Validating the Future** — On-chain Analytics | Dune Analytics · SQL | 🟡 Planned |
+| [📊 Phase 1](./01-phase-1-olist-web2-analysis/) | **Diagnosing the Pain** — Olist Web2 Analysis | SQL · BigQuery · Excel | 🟢 Active |
+| [🛠️ Phase 2](./02-phase-2-web3-escrow-solution/) | **Engineering the Cure** — Web3 Escrow Solution | Solidity · Python · Hardhat | 🟡 Planned |
+| [📈 Phase 3](./03-phase-3-ethereum-onchain-analytics/) | **Validating the Future** — On-chain Analytics | Dune Analytics · SQL | 🟡 Planned |
 
 ---
 
@@ -65,20 +65,20 @@ This project begins with a simple but powerful question. Using real transaction 
 ## 📁 Repository Structure
 
 ```
-evolution-of-trust-in-commerce/
+The-Evolution-of-Trust-in-Commerce/
 │
 ├── README.md                              ← You are here
 │
-├── phase-1-olist-web2-analysis/           ← 📊 SQL + Excel + BigQuery
+├── 01-phase-1-olist-web2-analysis/        ← 📊 SQL + Excel + BigQuery
 │   └── (data, sql queries, excel files, findings)
 │
-├── phase-2-web3-escrow-solution/          ← 🛠️ Solidity + Python + Hardhat
+├── 02-phase-2-web3-escrow-solution/       ← 🛠️ Solidity + Python + Hardhat
 │   └── (smart contracts, simulation scripts, test results)
 │
-├── phase-3-ethereum-onchain-analytics/    ← 📈 Dune Analytics + SQL
+├── 03-phase-3-ethereum-onchain-analytics/ ← 📈 Dune Analytics + SQL
 │   └── (on-chain queries, dashboards, findings)
 │
-└── conclusion/                            ← 🏆 Executive summary & roadmap
+└── 04-conclusion/                         ← 🏆 Executive summary & roadmap
 ```
 
 ---
